@@ -35,3 +35,11 @@ Enabling an Android App to Google Assistant (Ok Google)
 
 Python Web Site (Flask) to Process and View GTFS of Boston (MBTA)
 * [GTFS Python with Flask for School Project](https://github.com/sk92129/gtfs-tool-python)
+
+
+Flutter Bottom Navigation Bar app
+* [flutternaviapp](https://bitbucket.org/seankang/kitchensink/src/master/flutterkitchensink/)
+
+
+React Native Bottom Navigation Bar app - this is buggy
+* [react native naviapp](https://bitbucket.org/seankang/drawer/src/master/)
