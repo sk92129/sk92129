@@ -49,3 +49,6 @@ React Native Facebook SSO
 
 Swift Biometric Login
 * [ios swift security](https://bitbucket.org/seankang/iossecurity/src/master/)
+
+Java Priority Queue
+* [Java Priority Queue](https://bitbucket.org/seankang/priorityqueue/src/master/)
