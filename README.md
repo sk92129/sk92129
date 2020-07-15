@@ -43,3 +43,9 @@ Flutter Bottom Navigation Bar app
 
 React Native Bottom Navigation Bar app - this is buggy
 * [react native naviapp](https://bitbucket.org/seankang/drawer/src/master/)
+
+React Native Facebook SSO
+* [react native facebook SSO](https://bitbucket.org/seankang/rnsocialsso/src/master/)
+
+Swift Biometric Login
+* [ios swift security](https://bitbucket.org/seankang/iossecurity/src/master/)
