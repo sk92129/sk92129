@@ -1,5 +1,8 @@
 # You can contact me at seankang __at__ gmail dot com #
 
+## SwiftUI app to fetch JSON RESTful data and populate a list
+https://github.com/sk92129/courselistapp
+
 ## My first Node JS project -- serving up GTFS content from Express RESTful API
 https://github.com/sk92129/gtfsserver 
 
