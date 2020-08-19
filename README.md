@@ -1,5 +1,9 @@
 # You can contact me at seankang __at__ gmail dot com #
 
+## Using Netlify to run a React web application -- a tic tac toe game -- partially built.
+https://tender-payne-d12db4.netlify.app/
+
+
 ## SwiftUI app to fetch JSON RESTful data and populate a list
 https://github.com/sk92129/courselistapp
 
