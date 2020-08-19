@@ -6,7 +6,7 @@ https://github.com/sk92129/courselistapp
 ## My first Node JS project -- serving up GTFS content from Express RESTful API
 https://github.com/sk92129/gtfsserver 
 
-https://github.com/sk92129/tripserver -- extensions from the first project with more features (contact me if you want access)
+https://github.com/sk92129/tripserver -- extensions from the first project with more features (contact me if you want access.  otherwise you will see 404.)
 
 ## Push Notification with Firebase Cloud Messaging.
 * [Java Android client](https://bitbucket.org/seankang/fcmapp/src/master/)
