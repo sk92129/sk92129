@@ -1,5 +1,8 @@
 # You can contact me at seankang __at__ gmail dot com #
 
+## Experimenting with Google Assistant 
+https://github.com/sk92129/GoogleActionEarthquakes
+
 ## Android 10 security issue with READ PHONE STATE
 https://github.com/sk92129/phonestate10
 
