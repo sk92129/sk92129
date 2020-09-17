@@ -1,5 +1,9 @@
 # You can contact me at seankang __at__ gmail dot com #
 
+## Firebase analytics with Swift 
+https://github.com/sk92129/GoogleAnalytics
+
+
 ## ADA with React Native
 https://github.com/sk92129/rnada
 
