@@ -1,5 +1,11 @@
 # You can contact me at seankang __at__ gmail dot com #
 
+## Sample Android Project for BitRise
+https://gitlab.com/seankangcmu/bitriseandroid
+
+## Sample Swift iOS Project for BitRise
+https://gitlab.com/seankangcmu/bitrisetest2ios
+
 ## web crawler written in javascript nodejs
 https://github.com/sk92129/webspider
 
