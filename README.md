@@ -1,5 +1,8 @@
 # You can contact me at seankang __at__ gmail dot com #
 
+## Flutter Hello World
+https://gitlab.com/seankangcmu/flutterhelloworld
+
 ## Sample Android Project for BitRise
 https://gitlab.com/seankangcmu/bitriseandroid
 
