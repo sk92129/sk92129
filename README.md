@@ -6,6 +6,10 @@ I share some technical projects that I found interesting.  Share what you have w
 
 # Flutter-based Projects
 
+## Flutter with Azure pipeline (devops)
+https://github.com/sk92129/AzurePipeline4Flutter
+
+
 ## Flutter e-commerce system
 https://github.com/sk92129/FlutterWhiteLabel/tree/main
  More details coming via screen shots 
