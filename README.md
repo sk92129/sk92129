@@ -4,6 +4,14 @@ As an experienced software engineering professional, I help lead and build softw
 # Why I have this account
 I share some technical projects that I found interesting.  Share what you have with me.
 
+# CI CD pipelines 
+## pipeline on github with actions
+https://github.com/sk92129/fluttercamera/actions/runs/8135890219
+
+## pipeline on azure devops 
+![image](https://github.com/sk92129/sk92129/assets/1682772/8cffc039-5291-4792-8c2c-3f65c6331179)
+
+
 # Flutter-based Projects
 
 ## Flutter with Azure pipeline (devops)
