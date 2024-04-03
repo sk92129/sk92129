@@ -8,9 +8,13 @@ I share some technical projects that I found interesting.  Share what you have w
 
 ## Usage with Jupyter
 
+Using VSCode with .ipynb files to use the mpg dataframe and to set up a linear regression model in the SciKit Learn pipeline works pretty smoothly.
+
 ## Usage with Flutter (with Flutter-web and JavaScript)
 
 ## Usage with React Native
+
+ Using VSCode with React Native to create a RN project from scratch and specifying to use the 0.73 RN framework barely works without some manual intervention to fix the build.  Just asking Copilot to use the "latest framework" isn't specific enough for copilot to use the 0.73 framework.  At the time of this writing, 0.73 was the latest.
 
 
 
