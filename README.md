@@ -4,6 +4,16 @@ As an experienced software engineering professional, I help lead and build softw
 # Why I have this account
 I share some technical projects that I found interesting.  Share what you have with me.
 
+# Use of Github Copilot
+
+## Usage with Jupyter
+
+## Usage with Flutter (with Flutter-web and JavaScript)
+
+## Usage with React Native
+
+
+
 # CI CD pipelines 
 ## pipeline on github with actions
 https://github.com/sk92129/fluttercamera/actions/runs/8135890219
