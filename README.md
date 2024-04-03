@@ -12,6 +12,10 @@ Using VSCode with .ipynb files to use the mpg dataframe and to set up a linear r
 
 ## Usage with Flutter (with Flutter-web and JavaScript)
 
+ Asking Copilot to create a new flutter project using the latest framework fails.  It uses the pre 3.x framework. 
+
+ But using Copilot on existing 3.19.x flutter project to add columns, integrate with web and javascript works pretty well.
+
 ## Usage with React Native
 
  Using VSCode with React Native to create a RN project from scratch and specifying to use the 0.73 RN framework barely works without some manual intervention to fix the build.  Just asking Copilot to use the "latest framework" isn't specific enough for copilot to use the 0.73 framework.  At the time of this writing, 0.73 was the latest.
