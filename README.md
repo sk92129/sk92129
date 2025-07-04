@@ -1,21 +1,5 @@
 # Introduction
-As an experienced software engineering professional, I help lead and build software solutions that encompass transportation, medical informatics, retail, geospatial-awareness and human language processing.
-
-# Use of Github Copilot
-
-## Usage with Jupyter
-
-Using VSCode with .ipynb files to use the mpg dataframe and to set up a linear regression model in the SciKit Learn pipeline works pretty smoothly.
-
-## Usage with Flutter (with Flutter-web and JavaScript)
-
- Asking Copilot to create a new flutter project using the latest framework fails.  It uses the pre 3.x framework. 
-
- But using Copilot on existing 3.19.x flutter project to add columns, integrate with web and javascript works pretty well.
-
-## Usage with React Native
-
- Using VSCode with React Native to create a RN project from scratch and specifying to use the 0.73 RN framework barely works without some manual intervention to fix the build.  Just asking Copilot to use the "latest framework" isn't specific enough for copilot to use the 0.73 framework.  At the time of this writing, 0.73 was the latest.
+Experienced software engineering professional and showcase for Kang Engineering Systems LLC. www.kangengineering.com.
 
 
 
@@ -26,14 +10,17 @@ https://github.com/sk92129/fluttercamera/actions/runs/8135890219
 
 # Flutter-based Projects
 
+## AWS Cognito with Flutter front-end integration
+AWS Cognito allows for secure OAuth2.0 authentication and authorization. Id, Refresh, and Access tokens are provisioned by Cognito and can be securely passed between the client and backend for resource authorization.
+https://github.com/sk92129/AWSCognitoShowCase
+
+
 ## Flutter with Azure pipeline (devops)
 https://github.com/sk92129/AzurePipeline4Flutter
-
 
 ## Flutter e-commerce system
 https://github.com/sk92129/FlutterWhiteLabel/tree/main
  More details coming via screen shots 
- Source code will not be shared
 
 ## flutter with google map on iOS and Android
 https://github.com/sk92129/fluttermap
