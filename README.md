@@ -1,9 +1,6 @@
 # Introduction
 As an experienced software engineering professional, I help lead and build software solutions that encompass transportation, medical informatics, retail, geospatial-awareness and human language processing.
 
-# Why I have this account
-I share some technical projects that I found interesting.  Share what you have with me.
-
 # Use of Github Copilot
 
 ## Usage with Jupyter
