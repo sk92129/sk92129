@@ -2,12 +2,6 @@
 Experienced software engineering professional and showcase for Kang Engineering Systems LLC. www.kangengineering.com.
 
 
-
-# CI CD pipelines 
-## pipeline on github with actions
-https://github.com/sk92129/fluttercamera/actions/runs/8135890219
-
-
 # Flutter-based Projects
 
 ## AWS Cognito with Flutter front-end integration
