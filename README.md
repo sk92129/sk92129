@@ -1,5 +1,5 @@
 # Introduction
-Experienced software engineering professional and showcase for Kang Engineering Systems LLC. www.kangengineering.com.
+Experienced software engineering professional
 
 
 # Flutter-based Projects
