@@ -4,6 +4,9 @@ Experienced software engineering professional
 
 # Apple iOS Native Projects
 
+## Levering on-device CoreML prediction libraries
+https://github.com/sk92129/AISampleApp
+This code matchs the similar libraries and capabilities that exists with python SciKitLearn and other python based ML tools.
 
 
 # Flutter-based Projects
