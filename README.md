@@ -11,7 +11,7 @@ This code matchs the similar libraries and capabilities that exists with python 
 
 # Flutter-based Projects
 
-## Flutter web WASM game
+## Flutter web WASM game - Asteroid game build with AI with sound
 https://asteroidgame2.web.app/
 
 ## AWS Cognito with Flutter front-end integration
