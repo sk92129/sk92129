@@ -6,8 +6,12 @@ Experienced software engineering professional
 
 ## iOS Core ML with Smithery.ai MCP
 
-Accuracy measurement with reasonsing trace
+Accuracy measurement with reasonsing trace - with localization, voice input, file attachment, 
 <img width="944" height="2047" alt="image" src="https://github.com/user-attachments/assets/8bbc29b4-124e-481a-9b7f-3fbf499d02eb" />
+
+The reasoning trace window
+<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/8e5c11ce-9c6a-405c-a627-7eb6cc000633" />
+
 
 
 ## Leveraging on-device Core ML
