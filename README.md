@@ -4,6 +4,12 @@ Experienced software engineering professional
 
 # Apple iOS Native Projects
 
+## iOS Core ML with Smithery.ai MCP
+
+Accuracy measurement with reasonsing trace
+<img width="944" height="2047" alt="image" src="https://github.com/user-attachments/assets/8bbc29b4-124e-481a-9b7f-3fbf499d02eb" />
+
+
 ## Leveraging on-device Core ML
 https://github.com/sk92129/AISampleApp
 This code matchs the similar libraries and capabilities that exists with python SciKitLearn and other python based ML tools.
