@@ -8,6 +8,8 @@ Experienced software engineering professional.
 
 ## iOS Core ML with Smithery.ai MCP
 
+Freely and publicly available on iOS app store https://apps.apple.com/us/app/minsoo/id6772835674
+
 Accuracy measurement with reasoning trace featuring localization, voice input, and file attachment.
 
 <img width="708" height="1535" alt="Accuracy measurement trace" src="https://github.com/user-attachments/assets/8bbc29b4-124e-481a-9b7f-3fbf499d02eb" />
