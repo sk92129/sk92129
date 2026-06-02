@@ -9,6 +9,7 @@ Experienced software engineering professional.
 ## iOS Core ML with Smithery.ai MCP
 
 Freely and publicly available on iOS app store https://apps.apple.com/us/app/minsoo/id6772835674
+Uses the smithery.ai as the MCP backend https://github.com/smithery-ai
 
 Accuracy measurement with reasoning trace featuring localization, voice input, and file attachment.
 
