@@ -33,7 +33,7 @@ This project matches similar libraries and capabilities that exist within Python
 
 An Asteroid game built using Flutter and WebAssembly (WASM), developed with assistance from AI and featuring sound effects.
 
-* **Demo:** [Live Web App](https://asteroidgame2.web.app/)
+* **Demo:** [Live Web App](https://asteroids-fd270.web.app/)
 
 ## AWS Cognito Integration with Flutter
 
