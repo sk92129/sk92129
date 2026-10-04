@@ -32,6 +32,8 @@ This project matches similar libraries and capabilities that exist within Python
 ## Flutter Web WASM Game - Asteroid Game with Sound
 
 An Asteroid game built using Flutter and WebAssembly (WASM), developed with assistance from AI and featuring sound effects.
+<img width="733" height="698" alt="image" src="https://github.com/user-attachments/assets/1b65c877-32b9-4d0f-9a02-ff4b518b1d6b" />
+
 
 * **Demo:** [Live Web App](https://asteroids-fd270.web.app/)
 
