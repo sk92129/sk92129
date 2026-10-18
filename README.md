@@ -3,7 +3,13 @@
 Experienced software engineering professional.
 
 ---
+# RUST brain twitching exercise
 
+https://github.com/sk92129/hello_rust
+
+
+
+---
 # Apple iOS Native Projects
 
 ## iOS Core ML with Smithery.ai MCP
